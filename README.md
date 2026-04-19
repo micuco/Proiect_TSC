@@ -40,5 +40,5 @@ PCB Design: PCB 2 layer (TOP + BOTTOM), plan de masa pe ambele layere, via stitc
 
 Modelul 3D include: PCB complet cu componente, baterie LiPo (modelata conform datasheet), display e-paper, carcasa smartwatch.
 
-Integrarea presupune: alinierea butoanelor cu carcasa, pozitionarea corecta a USB-C, fixarea bateriei pe test pads, verificarea spatiului intern si a interferentelor.
+Integrarea presupune: alinierea butoanelor cu carcasa, pozitionarea corecta a USB-C, fixarea bateriei pe test pads, verificarea spatiului intern si a interferentelor..
 
